@@ -1,0 +1,17 @@
+static/foundation.min.css
+#static/css
+static/app.js
+media/Entry/*
+secret.json
+
+applications/entrada/migrations/*
+applications/favoritos/migrations/*
+applications/home/migrations/*
+applications/users/migrations/*
+
+applications/entrada/__pycache__/*
+applications/favoritos/__pycache__/*
+applications/home/__pycache__/*
+applications/users/__pycache__/*
+blog/__pycache__/*
+blog/settings/__pycache__/*
